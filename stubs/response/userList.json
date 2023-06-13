@@ -1,0 +1,11 @@
+{
+    "code": "000",
+    "message": "Exito al obtener usuarios",
+    "result": {
+        "clients": [
+            {"id": 1, "firstName": "Juan", "lastName": "Gonzalez", "departments": [56, 41]},
+            {"id": 4, "firstName": "Pedro", "lastName": "Pereira", "departments": [29]},
+            {"id": 62, "firstName": "María", "lastName": "Gutierrez", "departments": [56, 29]}
+        ]
+    }
+}
